@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyankaananthan
+- 👋 Hi, I’m Priyanka
 - 👀 I’m interested in Fron-end
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
